@@ -1,6 +1,5 @@
 #! /usr/bin/python
 import boto3
-from pprint import pprint
 import json
 import datetime
 import sys
